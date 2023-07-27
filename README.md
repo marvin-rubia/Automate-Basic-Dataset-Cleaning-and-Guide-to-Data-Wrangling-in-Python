@@ -1,5 +1,5 @@
-# Automate-Basic-Dataset-Cleaning-and-Guide-to-Data-Wrangling-in-Python
-This repository provides a function that automates basic dataset cleaning. The Jupyter notebook also includes guide to contextual data cleaning. This is my quick step-by-step guide for data wrangling.
+# Automating Basic Dataset Cleaning and Quick Guide to Data Wrangling
+This repository provides a function that automates basic dataset cleaning. The Jupyter Notebook also guides us in contextual data cleaning. This is my quick step-by-step guide for data wrangling.
 
 # Problem
 Data cleaning is a necessary part of data analysis. We need to ensure that our dataset is wrangled properly because the accuracy of our analysis and visualization depends on the accuracy of the data themselves. However, some processes of data wrangling are repetitive. Can we streamline our data preparation? 
