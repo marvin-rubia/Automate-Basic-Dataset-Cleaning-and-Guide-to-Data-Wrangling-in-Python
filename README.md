@@ -1,5 +1,5 @@
 # Automating Basic Data Wrangling With the `clean_dataframe()` Function
-This repository provides a Python function—called `clean_dataframe()`—that automates the basic data wrangling of a given dataframe. The Jupyter Notebook provides simple documentation for the said function and an example of using it. Copy the code for my function if you want to use it to clean your dataframe. 
+I created a Python function—called `clean_dataframe()`—that automates the basic data wrangling of a given dataframe. The Jupyter Notebook provides simple documentation for the said function and an example of using it. Copy the code for my function if you want to use it to clean your dataframe. 
 
 ## Problem
 Data cleaning is a necessary part of data analysis. We need to ensure that our dataset is wrangled properly because the accuracy of our analysis and visualization depends on the accuracy of the data themselves. However, some processes of data wrangling are repetitive. Can we streamline our data preparation? 
