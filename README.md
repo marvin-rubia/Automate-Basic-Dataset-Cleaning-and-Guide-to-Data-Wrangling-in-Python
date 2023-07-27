@@ -13,6 +13,6 @@ With the help of Pandas, I have to code a Python function that answers this prob
 # Screenshot of the cleaned dataset
 ![Cleaned](https://github.com/marvin-rubia/Automate-Basic-Dataset-Cleaning-and-Guide-to-Data-Wrangling-in-Python/assets/140475770/9ccb0235-b2ea-4ee2-a8eb-0008aba3d229)
 
-# How to see my cleaning function and guide to data wrangling? 
+# How to see my cleaning function and quick guide to data wrangling? 
 Check the uploaded Jupyter Notebook for the codes. It guides anyone with an example. If you are going to download the Notebook, you might want to download the __dirty__ .csv file. You can also follow along with your own dataset that you need to clean. 
 
