@@ -15,3 +15,12 @@ With the help of Pandas, I have to code a Python function that answers this prob
 
 ## Note
 The `clean_dataframe()` function does __not__ aim to cover _every_ possible data-wrangling process specific to your dataset. You still have to check the resulting dataframe and do more data wrangling if needed. The goal of the function is to reduce the time we spend coding repetitive data cleaning steps in our datasets.
+
+Use my function if you want to automatically:
+- remove empty rows,
+- remove duplicate rows,
+- remove trailing and leading whitespace,
+- transform double spaces into single spaces,
+- (optional) change the types of columns into int, float, str, bool, datetime
+- (optional) replace the missing values of columns by the mean of the corresponding columns
+- (optional) replace the missing values of columns by the mode of the corresponding columns
