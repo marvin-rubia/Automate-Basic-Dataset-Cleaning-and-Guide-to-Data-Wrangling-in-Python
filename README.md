@@ -19,7 +19,7 @@ The `clean_dataframe()` function does __not__ aim to cover _every_ possible data
 Use my function if you want to automatically:
 - remove empty rows,
 - remove duplicate rows,
-- remove trailing and leading whitespace,
+- remove trailing and leading whitespaces,
 - transform double spaces into single spaces,
 - (optional) change the types of specified columns into int, float, str, bool, datetime,
 - (optional) replace the missing values of specified columns by the mean of the corresponding columns, and
