@@ -21,6 +21,6 @@ Use my function if you want to automatically:
 - remove duplicate rows,
 - remove trailing and leading whitespace,
 - transform double spaces into single spaces,
-- (optional) change the types of columns into int, float, str, bool, datetime
-- (optional) replace the missing values of columns by the mean of the corresponding columns
-- (optional) replace the missing values of columns by the mode of the corresponding columns
+- (optional) change the types of specified columns into int, float, str, bool, datetime
+- (optional) replace the missing values of specified columns by the mean of the corresponding columns
+- (optional) replace the missing values of specified columns by the mode of the corresponding columns
