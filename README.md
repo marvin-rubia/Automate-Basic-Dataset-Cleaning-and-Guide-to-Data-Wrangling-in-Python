@@ -11,7 +11,7 @@ With the help of Pandas, I have to code a Python function that answers this prob
 ![ToClean](https://github.com/marvin-rubia/Automate-Basic-Dataset-Cleaning-and-Guide-to-Data-Wrangling-in-Python/assets/140475770/936268e1-d6a3-4367-8792-35b17b0c1060)
 
 ## Screenshot of the cleaned dataset
-To clean our dataframe (of the dirty .csv dataset), we call the function with only this code `clean_dataframe(df, to_integer=['Equipment Count'])`. The resulting .csv file (after the cleaned dataframe is saved) is shown below. 
+To clean our dataframe (of the dirty .csv dataset), we call the function with only this code `clean_dataframe(df, to_integer=['Equipment Count'])`. The resulting .csv file (after saving the cleaned dataframe) is shown below. 
 
 ![Cleaned](https://github.com/marvin-rubia/Automate-Basic-Dataset-Cleaning-and-Guide-to-Data-Wrangling-in-Python/assets/140475770/9ccb0235-b2ea-4ee2-a8eb-0008aba3d229)
 
